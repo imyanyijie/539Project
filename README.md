@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Introduction
+This is a web app for hand drawing recognization. The training data we use for the machine learning model is from [Google QuickDraw Dataset](https://github.com/googlecreativelab/quickdraw-dataset). The source code repository is on [Github](https://github.com/imyanyijie/539Project)
 
-You can use the [editor on GitHub](https://github.com/imyanyijie/539Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Purpose
+Our goal of this project is to build a tool will detect someone’s hand drawing and try to provide the name of the object.
+We use the data provided by Google QuickDraw project to train our CNN+RNN model in order to recognize the handdrawn object.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Take Away
++ We need more balanced data to be able to produce more successful sentimental analysis
++ Use Flask APIs to separate business logic and web service, and facilitate the collaboration among team members.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imyanyijie/539Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
