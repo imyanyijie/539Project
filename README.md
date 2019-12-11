@@ -25,7 +25,7 @@ CNN Confusion Matrix:
 ![CNN Confusion Matrix](result/CNNCM.jpg)
 
 
-#Initial Setup For FrontEnd
+# Initial Setup For FrontEnd
 npm is required for building the FrontEnd
 ```
 cd ML_django/frontend/
@@ -51,7 +51,7 @@ To run the FrontEnd service
 ```
 python manage.py runserver locoalhost:8000
 ```
-#Initlial Setup for CNN/CNN+RNN Environment 
+# Initlial Setup for CNN/CNN+RNN Environment 
 
 Pytorch is require to use the model for the frontend (If the environment is different, please reference pytorch website: [Pytorch](https://pytorch.org/get-started/locally/))
 For linux environment: 
