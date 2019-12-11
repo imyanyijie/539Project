@@ -27,6 +27,16 @@ CNN Confusion Matrix:
 
 ![CNN Confusion Matrix](result/CNNCM.jpg)
 
+RNN+CNN Top 5:
+
+![RNN+CNN TOP](result/RNNtop.png)
+
+RNN+CNN Confusion Matrix:
+
+![RNN+CNN Confusion Matrix](result/RnnCM.png)
+
+
+
 
 # Initial Setup For FrontEnd
 npm is required for building the FrontEnd
